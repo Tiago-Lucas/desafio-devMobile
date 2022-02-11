@@ -1,6 +1,5 @@
 import { Component, ElementRef, ViewChild } from '@angular/core';
 
-declare var google : any;
 
 @Component({
   selector: 'app-tab2',
